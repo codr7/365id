@@ -14,7 +14,7 @@ Jag tycker verkligen det här är under all kritik. Den här typen av tisslande och
 
 Så jag känner att jag har ett ansvar att varna andra som eventuellt kan vara intresserade, innan de slösar bort sin tid och energi på ett företag som mest verkar vara någon form av lekstuga där man bryr sig mer om skvaller än kompetens och är helt oförmögna att ta ansvar för sina handlingar.
 
-Jag kan tillägga att jag gav både Anders Nilsson (CTO) och Johan Hagelin (CEO) flera chanser att lösa det här på ett bättre sätt, genom att åtminstonde berätta vem som har sagt vad så att jag får en chans att bemöta och ställa personen till svars, men de verkar inte vara speciellt måna om vare sig sitt rykte eller företagets framtid.
+Jag kan tillägga att jag gav både Anders Nilsson (CTO) och Johan Hagelin (CEO) flera chanser att lösa det här på ett bättre sätt, genom att åtminstonde berätta vem som har sagt vad så att jag får en chans att bemöta och ställa personen till svars; men de verkar inte vara speciellt måna om vare sig sitt rykte eller företagets framtid.
 
 Min rekommendation: leta efter något bättre!
 
