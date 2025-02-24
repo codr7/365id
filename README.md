@@ -1,21 +1,19 @@
 ![Logo](logo.png)
 
-### Hur det går till när man söker jobb hos 365ID
+### Hur det gÃ¥r till nÃ¤r man sÃ¶ker jobb hos 365ID
 
-Jag sökte nyligen ett jobb som utvecklare hos 365ID.
+Jag sÃ¶kte nyligen ett jobb som utvecklare hos 365ID.
 
-Stämningen var inledningsvis väldigt positiv, jag besökte företaget för att träffa teamet; sedan hände absolut ingenting.
+StÃ¤mningen var inledningsvis vÃ¤ldigt positiv, jag besÃ¶kte fÃ¶retaget fÃ¶r att trÃ¤ffa teamet; sedan hÃ¤nde absolut ingenting.
 
-När jag till slut hörde av mig och bad om en statusuppdatering så fick jag veta att man hade pratat med någon bakom min rygg som hade sagt något som inte var positivt. Man hade inte brytt sig om att förankra det, och kunde inte låta mig veta vad som hade sagts eller av vem så att kunde bemöta det. Referensen jag lämnade brydde man sig inte ens om att kontakta.
+NÃ¤r jag till slut hÃ¶rde av mig och bad om en statusuppdatering sÃ¥ fick jag veta att man hade pratat med nÃ¥gon bakom min rygg som hade sagt nÃ¥got som inte var positivt. Man hade inte brytt sig om att fÃ¶rankra det, och kunde inte lÃ¥ta mig veta vad som hade sagts eller av vem sÃ¥ att kunde bemÃ¶ta det. Referensen jag lÃ¤mnade brydde man sig inte ens om att kontakta.
 
-Jag tar fullt ansvar för vad jag har gjort och är väl medveten om att jag har trampat en och annan person på tårna längs vägen, det har väl i princip varenda människa som någonsin har stått upp för något i sitt arbetsliv.
+Jag tar fullt ansvar fÃ¶r vad jag har gjort och Ã¤r vÃ¤l medveten om att jag har trampat en och annan person pÃ¥ tÃ¥rna lÃ¤ngs vÃ¤gen, det har vÃ¤l i princip varenda mÃ¤nniska som nÃ¥gonsin har stÃ¥tt upp fÃ¶r nÃ¥got i sitt arbetsliv.
 
-Jag tycker verkligen det här är under all kritik. Den här typen av tisslande och tasslande hör inte hemma i professionella sammanhang.
+Jag tycker verkligen det hÃ¤r Ã¤r under all kritik. Den hÃ¤r typen av tisslande och tasslande hÃ¶r inte hemma i professionella sammanhang.
 
-Så jag känner att jag har ett ansvar att varna andra som eventuellt kan vara intresserade, innan de slösar bort sin tid och energi på ett företag som mest verkar vara någon form av lekstuga där man bryr sig mer om skvaller än kompetens och är helt oförmögna att ta ansvar för sina handlingar.
+SÃ¥ jag kÃ¤nner att jag har ett ansvar att varna andra som eventuellt kan vara intresserade, innan de slÃ¶sar bort sin tid och energi pÃ¥ ett fÃ¶retag som mest verkar vara nÃ¥gon form av lekstuga dÃ¤r man bryr sig mer om skvaller Ã¤n kompetens och Ã¤r helt ofÃ¶rmÃ¶gna att ta ansvar fÃ¶r sina handlingar.
 
-Jag kan tillägga att jag gav både Anders Nilsson (CTO) och Johan Hagelin (CEO) flera chanser att lösa det här på ett bättre sätt, genom att åtminstonde berätta vem som har sagt vad så att jag får en chans att bemöta och ställa personen till svars; men de verkar inte vara speciellt måna om vare sig sitt eget eller företagets anseende.
+Jag kan tillÃ¤gga att jag gav bÃ¥de Anders Nilsson (CTO) och Johan Hagelin (CEO) flera chanser att lÃ¶sa det hÃ¤r pÃ¥ ett bÃ¤ttre sÃ¤tt, genom att Ã¥tminstonde berÃ¤tta vem som har sagt vad sÃ¥ att jag fÃ¥r en chans att bemÃ¶ta och stÃ¤lla personen till svars; men de verkar inte vara speciellt mÃ¥na om vare sig sitt eget eller fÃ¶retagets anseende.
 
-Min rekommendation: leta efter något bättre!
-
-Det är ingen brist på jobb för utvecklare i dagens värld direkt, låt dem sitta i sin lilla betonglåda och skvallra tills ingen bryr sig längre.
+Min rekommendation: leta efter nÃ¥got bÃ¤ttre!
